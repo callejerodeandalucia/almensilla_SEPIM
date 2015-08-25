@@ -1,11 +1,18 @@
 Título (30)
 ===========
+Guía de Almensilla
 
 Descripción breve (80)
 ======================
+Localiza y ubica los principales elementos del municipio
 
 Descripción completa (4000)
 ===========================
+A través de esta guía se proporciona la ubicación espacial de los principales elementos que se distribuyen por el territorio de Almensilla. Las principales temáticas que se han tratado son la restauración, el comercio, los servicios personales, los equipamientos públicos y los principales hitos de interés turístico e histórico.
+Su desarrollo ha sido posible gracias a la colaboración entre el Ayuntamiento de Almensilla y Junta de Andalucía y para ello, ha sido fundamental el Callejero Digital de Andalucía Unificado – CDAU, que ha permitido asociar a cada uno de los elementos publicados a su ubicación espacial.
+En ella se proporciona una relación de los principales elementos recogidos a partir de datos aportados por varias concejalías del Ayuntamiento de Almensilla así como por la guía de empresas de Almensilla 2015 vinculada a la campaña municipal de promoción de la PYME local.
+Desarrollado con la infraestructura del proyecto SIG Corporativo de la Junta de Andalucía. Consejería de Hacienda y Administración Pública
+
 
 Etiquetas	
 ===========
@@ -18,7 +25,8 @@ Versión inicial
 
 Sitio web
 =========
+http://www.almensilla.es
 
 Correo electrónico
 ==================
-
+sepim.ieca@juntadeandalucia.es

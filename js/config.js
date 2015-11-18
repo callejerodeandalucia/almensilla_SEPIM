@@ -1,4 +1,4 @@
-url = "http://mapea-sigc.juntadeandalucia.es/sepim_server/api";
+url = "http://www.callejerodeandalucia.es/sepim/api";
 urlCore = "http://geobusquedas-sigc.juntadeandalucia.es/geobusquedas/sepim_almensilla/search";
 urlSuggest = "http://geobusquedas-sigc.juntadeandalucia.es/geobusquedas/sepim_almensilla/suggest";
 idAplicacion = 51; //id de la aplicación
